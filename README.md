@@ -1,7 +1,7 @@
 # Multiplication_Game
 Bi-Weekly Coding Challenge #5.5
 
-# Golas -- >
+# Goals -- >
 
 * ✅ 1 point: The program opens and runs without a compiler error
 * ✅ 1 points: The program asks the participant at least ten multiplication problems per quiz***
