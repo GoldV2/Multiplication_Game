@@ -15,7 +15,7 @@ Bi-Weekly Coding Challenge #5.5
 # How to Execute -- >
 
 ### !!! WARNING !!!
-Download the proper version if you are using repl.it
+Download the proper version if you are using repl.it  
 The non-repl version works for Windows, Mac, and Linux
 
 ### How to
